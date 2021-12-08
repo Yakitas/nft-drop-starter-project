@@ -1,0 +1,19 @@
+{
+    "name": "SuperCEO",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "7NxQN9TbneduvHozppK33kwdAeDZaYWZ3DBzKiC5q1hd",
+                "share": 100
+            }
+        ]
+    }
+}
