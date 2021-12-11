@@ -24,9 +24,9 @@
   padding: 30px;
 }
 
-.header-container {
-  /* background-color: #60c657; */
-}
+/* .header-container {
+  background-color: #60c657;
+} */
 
 .header {
   margin: 0;
@@ -48,7 +48,7 @@
 .cta-button {
   height: 45px;
   border: 0;
-  width: auto;
+  /* width: auto; */
   padding-left: 40px;
   padding-right: 40px;
   border-radius: 10px;
